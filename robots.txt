@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-t7apzi.jumeirah-uae.com/sitemap.xml
